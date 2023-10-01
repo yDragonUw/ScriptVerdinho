@@ -176,7 +176,7 @@ local TouchedGKBallBox
 local Player = game.Players.LocalPlayer
 local RootPart = Player.Character.HumanoidRootPart
 
-local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/HenriquePog/robloxscripts/main/coiso%20ai.lua'))()
+local library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Makesdri/ScriptVerdinho/main/message%20(6).txt'))()
 
 local Window = library:CreateWindow("TPS: Street Soccer", "Version: 1.48", 10044538000)
 
